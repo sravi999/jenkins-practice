@@ -43,3 +43,5 @@ sudo nginx -t
 * Open a web browser on your local computer and paste your `public_ip` which will display your Jenkins server homepage.
 
 ![JENKINS_HOME_PAGE](pictures/Jenkins_home.png)
+
+Reference: https://www.jenkins.io/doc/book/system-administration/reverse-proxy-configuration-nginx/
